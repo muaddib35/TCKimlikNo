@@ -1,4 +1,4 @@
-# T.C. Kimlik No Doğrulama Fonksiyonı
+# T.C. Kimlik No Doğrulama Fonksiyonu
 
 ## Açıklama
     TC Kimlik nonun doğrulanması için uyması gereken şartlar şunlardır:
